@@ -8,3 +8,5 @@ I'm passionate about building efficient, real-world solutions by combining AI an
 🔍 Currently learning more about full-stack development and cloud services.
 
 🌱 Open to collaborations on web and AI-related projects.
+
+![Madhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhumaddy77&theme=jolly&show_icons=true)
